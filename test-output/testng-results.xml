@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-20T11:57:12Z" name="Default suite" finished-at="2022-11-20T11:57:13Z" duration-ms="1889">
+    <groups>
+    </groups>
+    <test started-at="2022-11-20T11:57:12Z" name="Default test" finished-at="2022-11-20T11:57:13Z" duration-ms="1889">
+      <class name="tests.CartTests">
+        <test-method signature="placeOrder()[pri:0, instance:tests.CartTests@1f53a5dc]" started-at="2022-11-20T11:57:12Z" name="placeOrder" finished-at="2022-11-20T11:57:13Z" duration-ms="1871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+      </class> <!-- tests.CartTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
